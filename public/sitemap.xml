@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>londonatil.london/countdown/</loc>
+    <loc>londonatil.github.io/countdown/</loc>
   </url>
   
   <url>
-    <loc>londonatil.london/categories/</loc>
+    <loc>londonatil.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>londonatil.london/</loc>
+    <loc>londonatil.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>londonatil.london/tags/</loc>
+    <loc>londonatil.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
